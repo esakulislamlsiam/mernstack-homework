@@ -468,7 +468,17 @@
     .counter .cards {
         margin-bottom: 10px;
     }
+    .cards {
+	padding: 39px 57px;
+}
+.overlayofcard {
+	position: absolute;
+	top: 13px;
+	left: 0px;
+	width: 250px;
+}
 
+    
         /* ==============================
         Counter Part  End
     ================================= */
