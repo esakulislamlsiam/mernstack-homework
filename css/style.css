@@ -389,12 +389,21 @@ nav .navbar-nav{
         overflow: hidden;
 }
 
-.extremetopshape {
+/* .extremetopshape {
     left: 50%;
     position: absolute;
     z-index: 2;
     transform: translate(-50%);
     top: 0;
+} */
+.extremetopshape {
+	left: 50%;
+	position: absolute;
+	z-index: 2;
+	transform: translate(-50%);
+	top: 26px;
+	max-width: 1363px;
+	width: 100%;
 }
 .extreamtitle h2 {
     font-family: 'Arizonia', cursive;

@@ -137,7 +137,12 @@
     .counter .cards {
         margin-bottom: 10px;
     }
-
+    .overlayofcard {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%);
+    }
         /* ==============================
         Counter Part  End
     ================================= */
